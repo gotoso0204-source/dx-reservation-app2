@@ -1,0 +1,18 @@
+{
+    "3Dプリンター #1_2026-11-03_09:00 - 09:30": {
+        "user": "後藤",
+        "status": "完了",
+        "artifact_text": "完成しました",
+        "artifact_image": null,
+        "likes": 0,
+        "comments": []
+    },
+    "3Dプリンター #1_2026-11-03_09:30 - 10:00": {
+        "user": "後藤",
+        "status": "利用中",
+        "artifact_text": "",
+        "artifact_image": null,
+        "likes": 0,
+        "comments": []
+    }
+}
